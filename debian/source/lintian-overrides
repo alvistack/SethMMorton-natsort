@@ -1,0 +1,5 @@
+python-natsort source: file-without-copyright-information
+python-natsort source: no-debian-changes
+python-natsort source: source-contains-prebuilt-windows-binary
+python-natsort source: source-is-missing
+python-natsort source: source-package-encodes-python-version
